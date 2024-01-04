@@ -12,4 +12,22 @@
   background-color: green;
   position: relative;left: 50%;top: 50%;
   transform: translate(-50%, -40%);
-  ;
+}
+.circle-container{
+  height: 150px;
+  width: 150px;
+  background-color: red;
+  position: relative;left: 52%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 100px;
+}
+.footer-container{
+  height: 400px;
+  width: 20px;
+  background-color: black;
+  position: relative;bottom: 55%;
+}
+.footer{
+  height
+}
